@@ -1,0 +1,1 @@
+const people = ['rumaisa', 'riaz'];
